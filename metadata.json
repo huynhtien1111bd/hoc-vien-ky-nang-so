@@ -1,0 +1,6 @@
+{
+  "name": "Học viện Kỹ năng Số",
+  "description": "Hệ thống đào tạo và ôn thi chứng chỉ số quốc tế (MOS, IC3 GS6) tích hợp trợ lý gia sư AI hỗ trợ 24/7.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
